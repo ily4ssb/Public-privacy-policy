@@ -1,2 +1,1 @@
-# Public-privacy-policy
-7d6354483a578e11b9d07f6cb295e4e72b07b164452dfb5cce026dafea87c09b
+public privacy policy
